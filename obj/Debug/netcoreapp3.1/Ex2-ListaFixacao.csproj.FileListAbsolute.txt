@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\bin\Debug\netcoreapp3.1\Ex2-ListaFixacao.exe
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\bin\Debug\netcoreapp3.1\Ex2-ListaFixacao.deps.json
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\bin\Debug\netcoreapp3.1\Ex2-ListaFixacao.runtimeconfig.json
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\bin\Debug\netcoreapp3.1\Ex2-ListaFixacao.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\bin\Debug\netcoreapp3.1\Ex2-ListaFixacao.dll
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\bin\Debug\netcoreapp3.1\Ex2-ListaFixacao.pdb
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\obj\Debug\netcoreapp3.1\Ex2-ListaFixacao.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\obj\Debug\netcoreapp3.1\Ex2-ListaFixacao.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\obj\Debug\netcoreapp3.1\Ex2-ListaFixacao.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\obj\Debug\netcoreapp3.1\Ex2-ListaFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\obj\Debug\netcoreapp3.1\Ex2-ListaFixacao.dll
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\obj\Debug\netcoreapp3.1\Ex2-ListaFixacao.pdb
+C:\Users\Felipe\Desktop\Ex2-ListaFixacao\obj\Debug\netcoreapp3.1\Ex2-ListaFixacao.genruntimeconfig.cache
