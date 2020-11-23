@@ -32,7 +32,11 @@ namespace Ex2_ListaFixacao
 
                           break;
 
-                default: Console.WriteLine("Dado Inválido");
+                default: 
+                
+                Console.WriteLine();
+
+                Console.WriteLine("Dado Inválido");
 
                          break;
                                  }
